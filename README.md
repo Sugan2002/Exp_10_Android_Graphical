@@ -1,5 +1,5 @@
 ### EX NO : 10
-### DATE  : 
+### DATE  : 14/06/2022
 # <p align="center"> Design an application that draws basic graphical primitives on the screen </p>
 
 ## AIM:
